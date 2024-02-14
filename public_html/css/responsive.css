@@ -1,0 +1,206 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Dec 26, 2023, 10:19:59 PM
+    Author     : nikolagazdic
+*/
+
+
+
+@media(min-width:576px){
+    
+    
+    .input-group
+{
+  padding-left:38px;}
+    
+    .form{
+        
+       padding-left:100px;
+      padding-right:100px;
+    }
+    
+    .form-outline input{
+        
+        
+        text-align: center;
+    }
+    
+    .background-pct{
+  
+    height:750px;    
+    overflow:hidden;
+    
+}
+
+ .home-content{
+    
+    padding-top:22px;
+}
+
+
+/*Destinations*/
+
+.buttons-main-class{
+   text-align: center;
+    
+}
+
+.button-class-main-bottom .pagination {
+    justify-content: center ;
+   
+}
+
+.destination-buttons-top{
+    padding: 10px 20px;
+    margin-right:15px;
+    
+}
+
+
+.destination-buttons-bottom{
+    
+    padding: 5px 15px;
+    margin-right:8px;
+   
+}
+
+.pagination li:nth-child(5){
+    
+    padding:14px 6px 0 0 ;
+    
+}
+
+/*Testimonials*/
+
+
+.testimonials,
+.contact{
+  padding:20px 40px;
+}
+
+/*destination articles*/
+
+.destination-articles-title,
+.contact-title{
+    
+   font-size:60px;
+    font-weight: 500;
+    line-height: 70px;
+    
+}
+
+
+}
+
+
+
+
+@media(min-width:768px){
+    
+
+
+.nav-item .nav-link{
+      margin-left:20px;
+       white-space: nowrap;
+    
+}
+
+ .home-content{
+    
+    padding-top:45px;
+   
+}
+
+
+
+ .thumbs{
+    
+    transform:translateY(26px);
+}
+
+/*testimonials*/
+
+
+    
+}
+
+
+@media(min-width:992px){
+    
+        .nav-item {
+    
+    border-bottom: 0px black solid;
+}
+    
+ 
+.nav-item .nav-link{
+      margin-left:30px;
+       white-space: nowrap;
+    
+}
+    
+    .form{
+        
+       padding-left:200px;
+      padding-right:200px;
+    }
+    
+    .home-content{
+    
+    padding-top:150px;
+}
+
+/*testimonials*/
+
+.testimonials,
+.contact{
+  padding:40px 80px;
+}
+
+/*destination articles*/
+
+.destination-articles-title,
+.contact-title{
+    
+  font-size:60px;
+    font-weight: 700;
+    line-height: 90px;
+    
+}
+
+.article{
+   padding-top:100px;
+    
+}
+
+    
+}
+
+
+@media(min-width:1200px){
+    
+    .nav-item .nav-link{
+      margin-left:60px;
+       white-space: nowrap;
+    
+}
+
+
+/*testimonials*/
+
+.testimonials,
+.contact{
+  padding:40px 200px;
+}
+    
+}
+
+
+@media(min-width:1400px){
+    
+    
+    
+}
