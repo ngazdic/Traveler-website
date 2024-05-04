@@ -28,6 +28,8 @@ font-family: 'Karla', sans-serif;
 body{
     
     font-family: 'Karla', sans-serif;
+  
+ 
 }
 
 
@@ -212,6 +214,41 @@ input{
     background-color: rgb(228, 244, 217);
 }
 
+.destinations-article figure{
+    
+    overflow:hidden;
+}
+
+
+    
+
+
+
+
+
+.destinations-article figure img
+{
+    transition:all 0.3s ease-in;
+}
+
+.destination-text{
+    transition:all 0.08s linear;
+}
+
+.destination-text:hover{
+    transform: translateY(-5px);
+}
+.destinations-article figure img:hover
+{
+  
+
+    
+    
+  transform: scale(1.1);
+ 
+    
+}
+
 
 .destinations button,
 .destination-buttons-bottom {
@@ -249,11 +286,6 @@ box-shadow: none !important;
 }
 
 
-.pagination li:nth-child(5){
-    
-    padding:9px 4px 0 0 ;
-    
-}
 
 
 
@@ -263,6 +295,11 @@ box-shadow: none !important;
 .testimonials{
     background-color: #F8F0E9;
  
+}
+
+.button-testimonials{
+   
+    margin-left:140px;
 }
 
 

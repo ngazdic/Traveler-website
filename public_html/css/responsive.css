@@ -75,6 +75,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 
 /*Testimonials*/
 
+.button-testimonials{
+   
+    margin-left:330px;
+}
+
 
 .testimonials,
 .contact{
@@ -123,7 +128,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 
 /*testimonials*/
 
-
+.button-testimonials{
+   
+    margin-left:510px;
+}
     
 }
 
@@ -154,6 +162,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 }
 
 /*testimonials*/
+
+.button-testimonials{
+   
+    margin-left:650px;
+}
 
 .testimonials,
 .contact{
@@ -190,6 +203,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 
 
 /*testimonials*/
+
+.button-testimonials{
+   
+    margin-left:620px;
+}
 
 .testimonials,
 .contact{
